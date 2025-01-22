@@ -1,0 +1,17 @@
+/* Mobile Version
+------------------*/
+body {
+  background: url(../img/bg-mobile.jpg) no-repeat top center/cover;
+}
+
+.container {
+  border: 1px solid red;
+  width: 360px;
+  margin: auto;
+}
+
+.profile img{
+  width: 112px;
+  margin: auto;
+  
+}
